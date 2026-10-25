@@ -31,3 +31,4 @@
 ## Sayfalar
 - [Ana sayfa](https://ervadental.com.tr/): klinik bilgileri, hekimler, tedaviler, sık sorulan sorular, iletişim ve konum
 - [İmplant tedavisi](https://ervadental.com.tr/tedaviler/implant/): implant nedir, kimler için değerlendirilir, tedavi aşamaları, uzun dönem sonuçlar, implant çevresi hastalıklar, bakım ve sık sorulan sorular; bilimsel kaynaklarıyla
+- [Ağız ve çene cerrahisi](https://ervadental.com.tr/tedaviler/agiz-ve-cene-cerrahisi/): gömülü dişler, çene kistleri, kanal ucu ameliyatı (apikal rezeksiyon), sinüs lifting, kemik artırma, ameliyat öncesi ve sonrası ile sık sorulan sorular; bilimsel kaynaklarıyla
